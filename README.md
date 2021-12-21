@@ -4,7 +4,7 @@
 
 🌱 I'm interested in exploring the intersections of data science and human-centered causes through research.
 
-📊 I’m looking to collaborate on data science projects, but am open to tasks related to other CS fields such as application development
+📊 I’m looking to collaborate on data science projects, but am open to tasks related to other CS fields such as app development
 
 🔭 I’m currently performing [computer vision research](https://bassconnections.duke.edu/project-teams/creating-artificial-worlds-ai-improve-energy-access-data-2021-2022) under Duke professor [Dr. Kyle Bradbury](https://ece.duke.edu/faculty/kyle-bradbury), exploring the benefit of synthetic satellite imagery (using the GP-GAN) for domain adaptation on an object detection task. 
 
