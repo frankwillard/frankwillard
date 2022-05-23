@@ -2,9 +2,9 @@
 
 👨‍💻 I am a rising junior at Duke University studying Computer Science and Statistics.
 
-🌱 I'm interested in exploring the intersections of data science and human-centered causes through research.
+🌱 I'm interested in exploring the intersections of data science/machine learning and human-centered causes through research.
 
-📊 I’m looking to collaborate on data science projects, but am open to tasks related to other CS fields such as app development
+📊 I’m looking to collaborate on data science/machine learning projects, but am open to tasks related to other CS fields such as app development
 
 📍 I'm currently working at the Johns Hopkins Applied Physics Laboratory in the Artificial Intelligence Group under [Computer Vision Researcher Derek Rollend](https://scholar.google.com/citations?user=PIyTOkkAAAAJ&hl=en), focusing on using segmentation models to provide city-level emissions estimates as part of the [Climate TRACE](https://www.climatetrace.org/) coalition. 
 
