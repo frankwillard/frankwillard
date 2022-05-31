@@ -8,6 +8,8 @@
 
 📫 How to reach me: frank.willard@duke.edu
 
+<br/>
+
 ### More about my experience
 
 📍 I'm currently working at the Johns Hopkins Applied Physics Laboratory in the Artificial Intelligence Group under [Computer Vision Researcher Derek Rollend](https://scholar.google.com/citations?user=PIyTOkkAAAAJ&hl=en), focusing on using segmentation models to provide city-level emissions estimates of the transportation sector as part of the [Climate TRACE](https://www.climatetrace.org/) coalition. 
