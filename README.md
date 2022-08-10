@@ -12,7 +12,7 @@
 
 ## More about my experience
 
-📍 I'm currently working at the Johns Hopkins Applied Physics Laboratory in the Artificial Intelligence Group under [Computer Vision Researcher Derek Rollend](https://scholar.google.com/citations?user=PIyTOkkAAAAJ&hl=en), focusing on using segmentation models to provide city-level emissions estimates of the transportation sector as part of the [Climate TRACE](https://www.climatetrace.org/) coalition. 
+📍 This summer, I worked at the Johns Hopkins Applied Physics Laboratory in the Artificial Intelligence Group under [Computer Vision Researcher Derek Rollend](https://scholar.google.com/citations?user=PIyTOkkAAAAJ&hl=en), focusing on using segmentation models to provide city-level emissions estimates of the transportation sector as part of the [Climate TRACE](https://www.climatetrace.org/) coalition. 
 
 🔭 For the last year, I performed [computer vision research](https://bassconnections.duke.edu/project-teams/creating-artificial-worlds-ai-improve-energy-access-data-2021-2022) under Duke professor [Dr. Kyle Bradbury](https://ece.duke.edu/faculty/kyle-bradbury), exploring the benefit of synthetic imagery (using the GP-GAN) for domain adaptation on an object detection of energy infrastructure in satellite imagery. 
 
