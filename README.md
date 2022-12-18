@@ -20,7 +20,7 @@
 
 📄 Learn more about my previous experiences and skills with my [LinkedIn](https://www.linkedin.com/in/frank-willard/) and [Downloadable Resume](https://www.linkedin.com/in/frank-willard/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC32qzgB_W9wyMys8OLxDYVk-Hl6Oh6SSfg,1635477597733)/).
 
-📈 I’m currently learning about natural language processing (Updated August 2022)
+📈 I’m currently learning about natural language processing (Updated December 2022)
 
 <!--
 **frankwillard/frankwillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
