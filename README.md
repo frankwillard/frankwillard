@@ -1,6 +1,6 @@
 ## Hi, I'm Frankie 👋
 
-👨‍💻 I am a rising junior at Duke University studying Computer Science and Statistics.
+👨‍💻 I am a rising senior at Duke University studying Computer Science and Statistics.
 
 🌱 I'm interested in exploring the intersections of data science/machine learning and human-centered causes through research.
 
